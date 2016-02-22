@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- NetSHARE_CODE -->
+    <string name="SHARE_CODE_40000">Parameter is not correct, Usually lack the necessary parameters</string>
+    <string name="SHARE_CODE_40001">The access_token provided is incorrect or expired unavailable </string>
+    <string name="SHARE_CODE_40002">Your account is landed elsewhere!</string>
+    <string name="SHARE_CODE_50000">Server exception, please try again later</string>
+    <string name="SHARE_CODE_50001">Internal error, usually a database error</string>
+
+    <!-- LocalSHARE_CODE -->
+    <string name="SHARE_CODE_SHARE_COMPLETE">Share Success</string>
+    <string name="SHARE_CODE_SHARE_CANCEL">Share has been canceled  </string>
+    <string name="SHARE_CODE_SHARE_FAIL">Share Failed</string>
+    <string name="SHARE_CODE_WECHAT_CLIENT_INVALID">Make sure you have installed WeChat</string>
+    <string name="SHARE_CODE_WECHAT_CLIENT_NOT_SUPPORTED">WeChat version is too low, please upgrade WeChat version   </string>
+    <string name="SHARE_CODE_MAIL_DATA_MISSING">Missing data, please try again  </string>
+    <string name="SHARE_CODE_SHARE_DATA_MISSING">No data available currently, Cannot share now</string>
+    <string name="SHARE_CODE_SEND_MAIL_SUCCESS">Mail sent successfully</string>
+    <string name="SHARE_CODE_ADDRESS_ERROR">Email address format you entered is incorrect, multiple email addresses separated by commas(,), please enter again</string>
+    <string name="SHARE_CODE_ADDRESS_NULL">Please enter the recipient is address </string>
+    <string name="SHARE_CODE_SIM_INVALIABLE">SIM card does not exist</string>
+
+</resources>

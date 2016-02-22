@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <data>
+
+        <variable
+            name="data"
+            type="String" />
+
+        <variable
+            name="ClickEvent"
+            type="ga.imagination.SendActivity" />
+
+        <variable
+            name="content"
+            type="String" />
+
+    </data>
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:context=".SendActivity"
+            tools:showIn="@layout/activity_main">
+
+            <ga.imagination.widget.ImageGallery
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:background="#dcdcdc"
+                android:visibility="gone" />
+
+            <ga.imagination.widget.JsonPanel
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:jsonData="@{data}" />
+
+            <ga.imagination.widget.SendMenuBar
+                android:id="@+id/send_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:background="#ededed"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:padding="10dp" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:onClick="Post"
+                android:text="post" />
+
+            <ga.imagination.widget.CollapsingTextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/button3"
+                android:background="#70dcdcdc"
+                android:text="@{content}"
+                app:foldLines="1" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView"
+                android:layout_above="@+id/button3"
+                android:layout_toRightOf="@+id/textView2"
+                android:layout_toEndOf="@+id/textView2" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="set"
+                android:id="@+id/button7"
+                android:onClick="set"
+                android:layout_above="@+id/textView3"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+    </ScrollView>
+</layout>

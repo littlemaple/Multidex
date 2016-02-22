@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <import type="ga.imagination.module.Doctor" />
+
+        <import type="android.text.TextUtils" />
+
+        <import type="android.view.View" />
+
+        <variable
+            name="item"
+            type="Doctor" />
+    </data>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:padding="20dp">
+
+        <ImageView
+            android:id="@+id/iv_icon"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/message_ic_camera" />
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_toEndOf="@+id/iv_icon"
+            android:layout_toRightOf="@+id/iv_icon"
+            android:text="@{item.name}"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/tv_name"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_toEndOf="@+id/tv_name"
+            android:layout_toRightOf="@+id/tv_name"
+            android:text="@{item.title}" />
+
+        <TextView
+            android:id="@+id/tv_prefix"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_title"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@+id/iv_icon"
+            android:layout_toRightOf="@+id/iv_icon"
+            android:text="擅长"
+            android:textColor="#000000"
+            android:visibility='@{TextUtils.isEmpty(item.specialty)?View.GONE:View.VISIBLE}' />
+
+        <ga.imagination.widget.CollapsingTextView
+            android:id="@+id/tv_specialty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_title"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@+id/tv_prefix"
+            android:text="@{item.specialty}" />
+
+    </RelativeLayout>
+</layout>

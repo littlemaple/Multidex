@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="SET_CODE_40700">Account information is incorrect </string>
+    <string name="SET_CODE_40701">Orignal cell phone verification code is incorrect</string>
+    <string name="SET_CODE_40702">New cell phone verification code is incorrect</string>
+    <string name="SET_CODE_40703">New password decoding failure </string>
+    <string name="SET_CODE_40704">Avatar data decoding is incorrect</string>
+    <string name="SET_CODE_40705">Verification code of mailbox modify is incorrect</string>
+    <string name="SET_CODE_NICKNAME_EMPTY">Please enter nickname</string>
+    <string name="SET_CODE_NICKNAME_ILLAGE">Nickname consists only of Chinese characters, numbers and English letters</string>
+    <string name="SET_CODE_NICKNAME_TOO_LONG">Words over the limit</string>
+    <string name="SET_CODE_REALNAME_EMPTY">Please enter the name</string>
+    <string name="SET_CODE_REALNAME_TOO_LONG">Words over the limit</string>
+    <string name="SET_CODE_REALNAME_ILLAGE">Name consists only of Chinese characters, numbers and English letters </string>
+    <string name="SET_CODE_13105">Please enter the email</string>
+    <string name="SET_CODE_13106">Please enter a valid email address </string>
+    <string name="SET_CODE_INFO_BIND_PHONE_NULL">Please enter the cell phone number</string>
+    <string name="SET_CODE_13107">Please enter the correct cell phone number</string>
+    <string name="SET_CODE_INFO_BIND_IDCRAD_NULL">Please enter the ID number</string>
+    <string name="SET_CODE_INFO_BIND_IDCRAD_ILLAGE">Please enter the correct ID number</string>
+    <string name="SET_CODE_13109">Please select a province and city</string>
+    <string name="SET_CODE_13110">Address format you entered is incorrect, please enter again</string>
+    <string name="SET_CODE_13111">Words over the limit</string>
+    <string name="SET_CODE_13112">Please enter the full address</string>
+    <string name="SET_CODE_13201">Please enter the original password</string>
+    <string name="SET_CODE_RESET_NEW_PASSWORD_NULL">Please enter new password</string>
+    <string name="SET_CODE_13202">Original password is incorrect, please enter again</string>
+    <string name="SET_CODE_RESET_NEW_PASSWORD_SUCCESS">New password has been set!</string>
+    <string name="SET_CODE_PASSWORD_ILLAGE">Password required for 6 &#8211; 16 English letters or numbers, please enter again</string>
+    <string name="SET_CODE_13204">Expected date of confinement can not be empty</string>
+    <string name="SET_CODE_13205">Prior to the current date can not be selected</string>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- NetSHARE_CODE -->
+    <string name="SHARE_CODE_40000">参数不正确，通常是缺少提供必要参数。</string>
+    <string name="SHARE_CODE_40001">提供的 access_token 不正确或已过期不可用。</string>
+    <string name="SHARE_CODE_40002">您的帐号在别处登陆！</string>
+    <string name="SHARE_CODE_50000">服务器异常，请稍后再试</string>
+    <string name="SHARE_CODE_50001">内部错误，通常是数据库出错。</string>
+
+    <!-- LocalSHARE_CODE -->
+    <string name="SHARE_CODE_SHARE_COMPLETE">分享成功</string>
+    <string name="SHARE_CODE_SHARE_CANCEL">已取消分享</string>
+    <string name="SHARE_CODE_SHARE_FAIL">分享失败</string>
+    <string name="SHARE_CODE_WECHAT_CLIENT_INVALID">请确认您已经安装微信软件</string>
+    <string name="SHARE_CODE_WECHAT_CLIENT_NOT_SUPPORTED">微信版本太低，请升级微信版本</string>
+    <string name="SHARE_CODE_MAIL_DATA_MISSING">数据缺失,请重试</string>
+    <string name="SHARE_CODE_SHARE_DATA_MISSING">当前无任何数据，无法进行分享</string>
+    <string name="SHARE_CODE_SEND_MAIL_SUCCESS">邮件发送成功</string>
+    <string name="SHARE_CODE_ADDRESS_ERROR">邮件地址格式不正确，多个邮件地址用逗号(,)隔开,请重新输入</string>
+    <string name="SHARE_CODE_ADDRESS_NULL">请输入收件人地址!</string>
+    <string name="SHARE_CODE_SIM_INVALIABLE">SIM卡不存在</string>
+
+</resources>

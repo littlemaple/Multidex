@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="STATUS_CODE_UNDEFINED">错误类别：%1$s，错误码：%2$s，尚未定义</string>
+    <string name="STATUS_CODE_REQUEST_FAILED">错误的空结果返回</string>
+    <string name="STATUS_CODE_10000">无</string>
+    <string name="STATUS_CODE_10001">当前网络不可用,请检查网络设置</string>
+    <string name="STATUS_CODE_10002">网络异常,请稍后再试</string>
+    <string name="STATUS_CODE_10003">字数超过限制</string>
+    <string name="STATUS_CODE_10004">未找到存储卡，无法存储照片！</string>
+    <string name="STATUS_CODE_10005">服务器异常，请稍后重试</string>
+</resources>

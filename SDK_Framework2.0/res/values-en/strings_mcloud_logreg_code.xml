@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="LOG_CODE_40100">Please enter the correct cell phone number or email</string>
+    <string name="LOG_CODE_40101">Please enter the correct cell phone number or email</string>
+    <string name="LOG_CODE_40102">The account is not registered, please enter again</string>
+    <string name="LOG_CODE_40103">The account has been registered, please enter again</string>
+    <string name="LOG_CODE_40104">Sent too frequently</string>
+    <string name="LOG_CODE_40105">Network anomalies, please try again later</string>
+    <string name="LOG_CODE_40106">Verification code error</string>
+    <string name="LOG_CODE_40300">Registration fails, please register again</string>
+    <string name="LOG_CODE_40301">Password required for 6 &#8211; 16 English letters or numbers</string>
+    <string name="LOG_CODE_40302">Verification code error</string>
+    <string name="LOG_CODE_40303">Verification code error</string>
+    <string name="LOG_CODE_40400">Please enter the correct cell phone number or email</string>
+    <string name="LOG_CODE_40401">Password required for 6 &#8211; 16 English letters or numbers</string>
+    <string name="LOG_CODE_40500">Server exception, please try again later </string>
+    <string name="LOG_CODE_40501">Please enter the correct cell phone number or email</string>
+    <string name="LOG_CODE_40502">Account number or password is incorrect, please enter again</string>
+    <string name="LOG_CODE_40503">Too many incorrect passwords, please login again after 15 minutes </string>
+    <string name="LOG_CODE_ACCOUNT_ILLAGE">Please enter the correct cell phone number or email</string>
+    <string name="LOG_CODE_10076">Please enter verification code </string>
+    <string name="LOG_CODE_10203">Verification code has been sent to \n%1$s</string>
+    <string name="LOG_CODE_NICKNAME_TOO_LONG">Words of nickname over the limit,please enter again</string>
+    <string name="LOG_CODE_NICKNAME_ILLAGE">Nickname consists only of Chinese characters, numbers and English letters</string>
+    <string name="LOG_CODE_10206">Verification code error</string>
+    <string name="LOG_CODE_10304">Verification code error</string>
+    <string name="LOG_CODE_10305">Please enter new password</string>
+    <string name="LOG_CODE_PASSWORD_ERROR">Account number or password is incorrect, please enter again</string>
+    <string name="LOG_CODE_LOGIN_KICKED_ERROR">Your account login elsewhere</string>
+    <string name="LOG_CODE_PASSWORD_ILLAGE">Password required for 6 &#8211; 16 English letters or numbers</string>
+    <string name="LOG_CODE_10307">New password set successfully!</string>
+    <string name="LOG_CODE_PASSWORD_EMPTY">Please enter password</string>
+    <string name="LOG_CODE_ACCOUNT_EMPTY">Please enter account number </string>
+    <string name="LOG_CODE_EMAIL_EMPTY">Please enter account number </string>
+    <string name="LOG_CODE_PHONE_EMPTY">Please enter account number </string>
+    <string name="LOG_CODE_10211">Register successfully </string>
+    <string name="LOG_CODE_NICKNAME_EMPTY">Please enter nickname</string>
+    <string name="LOG_CODE_10212">Please select bitrthday</string>
+    <string name="LOG_CODE_10213">Please select  gender </string>
+    <string name="LOG_CODE_10312">Please enter verification code </string>
+    <string name="LOG_CODE_10214">Registration anomalies, please register again </string>
+    <string name="LOG_CODE_PHONE_ILLAGE">Please enter the correct cell phone number or email</string>
+    <string name="LOG_CODE_EMAIL_ILLAGE">Please enter the correct cell phone number or email</string>
+
+
+</resources>

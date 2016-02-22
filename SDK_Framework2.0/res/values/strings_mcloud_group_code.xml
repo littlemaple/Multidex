@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- LocalGROUP_CODE -->
+    <string name="GROUP_CODE_12101">请输入群名称</string>
+    <string name="GROUP_CODE_12102">群名称只能由汉字、数字及英文字母组成</string>
+    <string name="GROUP_CODE_12103">字数超过限制</string>
+    <string name="GROUP_CODE_GROUP_INTRODUCE_ILLAGE">群介绍中有异常字符，请重新输入</string>
+    <string name="GROUP_CODE_12201">请输入邀请成员用户名</string>
+    <string name="GROUP_CODE_12202">该用户名不存在</string>
+    <string name="GROUP_CODE_12303">无法发送空白消息</string>
+    <string name="GROUP_CODE_12401">备注只能由汉字、数字及英文字母组成</string>
+    <string name="GROUP_CODE_12402">字数超过限制</string>
+    <string name="GROUP_CODE_12403">对方未授权您替Ta测量</string>
+    <string name="GROUP_CODE_12404">对方未授权您访问其健康中心</string>
+    <string name="GROUP_CODE_12203">已发送</string>
+    <string name="GROUP_CODE_12204">邀请失败</string>
+    <string name="GROUP_CODE_12301">最多发送400个字符</string>
+    <string name="GROUP_CODE_12205">您已经被踢出%s群!</string>
+    <string name="GROUP_CODE_12206">%s群已解散!</string>
+    <string name="GROUP_CODE_12302">输入信息为空，不可发送</string>
+    <string name="GROUP_CODE_12304">消息发送太频繁!</string>
+    <string name="GROUP_CODE_12416">帐号信息加载中，请稍后…</string>
+    <string name="GROUP_CODE_12501">删除失败</string>
+    <!-- NetGROUP_CODE -->
+
+    <string name="GROUP_CODE_41001">成员数量达到上限，无法邀请新成员</string>
+    <string name="GROUP_CODE_41100">联系人主键不存在或不属于当前账号</string>
+    <string name="GROUP_CODE_41800">该用户不存在</string>
+    <string name="GROUP_CODE_41200">联系人主键不存在或不属于当前账号</string>
+    <string name="GROUP_CODE_41201">联系人资料填写不正确，在 errors 字段中附带出错字段的具体原因</string>
+    <string name="GROUP_CODE_42200">提供的 messageid 不正确或不隶属于当前用户</string>
+    <string name="GROUP_CODE_42300">提供的 messageid 不正确或不隶属于当前用户</string>
+    <string name="GROUP_CODE_42301">提供的响应操作参数不可为空</string>
+    <string name="GROUP_CODE_42302">处理消息失败</string>
+    <string name="GROUP_CODE_42400">无效的用户 ID，通常是不存在 </string>
+    <string name="GROUP_CODE_42401">该群已经不存在</string>
+    <string name="GROUP_CODE_42501">创建群超过上限,无法创建</string>
+    <string name="GROUP_CODE_42600">群资料填写不正确，在 errors 字段中附带出错字段的具体原因</string>
+    <string name="GROUP_CODE_42601">无效的群 ID，不存在或无权修改</string>
+    <string name="GROUP_CODE_42700">无效的群 ID，不存在或无权解散</string>
+    <string name="GROUP_CODE_42800">无效的群 ID，不存在或无权邀请</string>
+    <string name="GROUP_CODE_42801">目标用户不存在</string>
+    <string name="GROUP_CODE_42802">用户已存在于该群</string>
+    <string name="GROUP_CODE_42900">无效的群 ID，不存在或无权踢人权限</string>
+    <string name="GROUP_CODE_42901">群主不可以被踢或退群</string>
+    <string name="GROUP_CODE_42902">用户不在群中</string>
+    <string name="GROUP_CODE_43100">群资料填写不正确，在 errors 字段中附带出错字段的具体原因</string>
+    <string name="GROUP_CODE_43101">无效的群 ID，不存在或不在该群中</string>
+    <string name="GROUP_CODE_43200">群资料填写不正确，在 errors 字段中附带出错字段的具体原因</string>
+    <string name="GROUP_CODE_43201">无效的用户 ID，通常是不存在</string>
+    <string name="GROUP_CODE_43202">无效的群 ID，不存在或双方并不都在该群中</string>
+    <string name="GROUP_CODE_43203">允许人数达到上限，无法开启新允许</string>
+    <string name="GROUP_CODE_43204">允许人数达到上限，无法开启新允许</string>
+    <string name="GROUP_CODE_43205">允许人数达到上限，无法开启新允许</string>
+    <string name="GROUP_CODE_43300">无效的群组 ID 或不在此群中</string>
+    <string name="GROUP_CODE_43600">无效的群 ID，不存在或者您不在该群中</string>
+    <string name="GROUP_CODE_43601">无效的对话用户 ID，对方不在这个群中</string>
+    <string name="GROUP_CODE_43700">无效的群 ID，不存在或者您不在该群中</string>
+    <string name="GROUP_CODE_43701">无效的对话用户 ID，对方不在这个群中</string>
+    <string name="GROUP_CODE_43800">无效的群 ID，不存在或者您不在该群中</string>
+    <string name="GROUP_CODE_43801">无效的对话用户 ID，对方不在这个群中</string>
+    <string name="GROUP_CODE_43802">您不是群主，无权直接和用户对话</string>
+    <string name="GROUP_CODE_43803">不能自己发消息给自己</string>
+    <string name="GROUP_CODE_43804">消息数据不可为空，对于非普通消息必须是合法的 JSON 数据</string>
+    <string name="GROUP_CODE_43900">无效的群 ID，群不存在</string>
+    <string name="GROUP_CODE_44100">无效的订阅群 ID，群不存在或者类型不正确</string>
+    <string name="GROUP_CODE_44101">已经订阅过本群了</string>
+    <string name="GROUP_CODE_45102">提供的账号 ID 不正确</string>
+    <string name="GROUP_CODE_45103">无合适匹配规则</string>
+
+</resources>

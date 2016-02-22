@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- NetMEASURE_CODE -->
+    <string name="MEASURE_CODE_41300">提供的测量类型不正确</string>
+    <string name="MEASURE_CODE_41301">服务器异常，请稍后再试</string>
+    <string name="MEASURE_CODE_41302">代码测量的用户ID无效</string>
+    <string name="MEASURE_CODE_41400">提供的测量类型不正确</string>
+    <string name="MEASURE_CODE_41401">下载数据的用户 ID 无效（不存在或无权限）</string>
+    <string name="MEASURE_CODE_41500">提供的测量类型不正确</string>
+    <string name="MEASURE_CODE_41501">数据主键不存在或不属于当前帐号</string>
+    <string name="MEASURE_CODE_41502">测量数据填写不正确</string>
+    <string name="MEASURE_CODE_41600">提供的测量类型不正确</string>
+    <string name="MEASURE_CODE_41700">服务器异常，请稍后再试</string>
+    <string name="MEASURE_CODE_41800">要查询的目标帐号不存在</string>
+    <string name="MEASURE_CODE_45102">无效的测量类型</string>
+
+    <!-- LocalMEASURE_CODE -->
+    <string name="MEASURE_CODE_11401">此前无任何数据</string>
+    <string name="MEASURE_CODE_11403">删除成功</string>
+    <string name="MEASURE_CODE_11404">删除失败</string>
+    <string name="MEASURE_CODE_11405">该月无任何数据</string>
+    <string name="MEASURE_CODE_DATA_UPLOAD_FAILURE">数据上传失败，请稍后再试</string>
+    <string name="MEASURE_CODE_CANNOT_DISPLAY_SUGGEST">当前无网络，无法查看分析及建议</string>
+    <string name="MEASURE_CODE_HEART_RATE_EMPTY">心率不能为空</string>
+    <string name="MEASURE_CODE_SYSTOLIC_PRESSURE_EMPTY">收缩压不能为空</string>
+    <string name="MEASURE_CODE_DIASTOLIC_PRESSURE_EMPTY">舒张压不能为空</string>
+    <string name="MEASURE_CODE_BLOOD_OXYGEN_EMPTY">血氧不能为空</string>
+    <string name="MEASURE_CODE_TEMPERATURE_EMPTY">耳温不能为空</string>
+    <string name="MEASURE_CODE_SYSTOLIC_LESS_THAN_DIASTOLIC">输入错误，收缩压必须大于舒张压</string>
+    <string name="MEASURE_CODE_18100">当前网络不可用，无法进行心云分享</string>
+    <string name="MEASURE_CODE_SOMEONT_ELSE_IS_FINISED">替他人测量完成</string>
+    <string name="MEASURE_CODE_MEASUREMENT_FOR_OTHERS">当前网络不可用，无法替他人测量</string>
+    <string name="MEASURE_CODE_18101">数据正在上传中,请稍后再试</string>
+    <string name="MEASURE_CODE_UPLOAD_OTHER_SUCCESS">数据上传成功</string>
+    <string name="MEASURE_CODE_UPLOAD_SELF_SUCCESS">数据上传成功</string>
+    <string name="MEASURE_CODE_BLOOD_SUGAR_EMPTY">血糖不能为空</string>
+    <string name="MEASURE_CODE_CORRUPT_MEDIA">音频意外受损，无法播放</string>
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- LocalCode -->
+
+    <string name="CONTACT_CODE_12304">消息发送太频繁!</string>
+    <string name="CONTACT_CODE_ACCOUNT_EMPTY">请输入手机或邮箱号码</string>
+    <string name="CONTACT_CODE_ACCOUNT_ILLAGE">输入手机或者邮箱号码非法</string>
+    <string name="CONTACT_CODE_NICKNAME_EMPTY">请输入备注</string>
+    <string name="CONTACT_CODE_NICKNAME_TOO_LONG">姓名字数超过限制，请重新输入</string>
+    <string name="CONTACT_CODE_NICKNAME_ILLAGE">姓名只能由汉字、数字及英文字母组成</string>
+    <string name="CONTACT_CODE_CONTACT_LIMIT">添加人数已达到上限</string>
+    <string name="CONTACT_CODE_CONTACT_PHONE_IS_TIED">已绑定手机号码</string>
+    <string name="CONTACT_CODE_REMARK_TOO_LONG">备注名不合法，不能超过10汉字或20字母</string>
+    <string name="CONTACT_CODE_REMARK_ILLEGAL">备注名不合法，只允许字母,数字或汉字</string>
+    <!-- NetCode -->
+
+    <string name="CONTACT_CODE_40000">参数不正确，通常是缺少提供必要参数。</string>
+    <string name="CONTACT_CODE_40600">要获取资料的他人 ID 不存在或无权限。</string>
+    <string name="CONTACT_CODE_40700">帐号资料不正确，在 errors 字段中附带出错字段的具体原因。</string>
+    <string name="CONTACT_CODE_40701">帐号已绑定过手机。</string>
+    <string name="CONTACT_CODE_40702">绑定手机验证码不正确。</string>
+    <string name="CONTACT_CODE_40703">新密码解码失败。</string>
+    <string name="CONTACT_CODE_40704">头像数据解码不正确，须经 base64 正确编码。</string>
+    <string name="CONTACT_CODE_40705">邮箱修改验证码不正确。</string>
+    <string name="CONTACT_CODE_40706">帐号已绑定过邮箱。</string>
+    <string name="CONTACT_CODE_40707">要修改资料的他人 ID 不存在或无权限。</string>
+    <string name="CONTACT_CODE_40900">要列出联系人的他人 ID 不存在或无权限</string>
+    <string name="CONTACT_CODE_41000">联系人资料填写不正确，邮箱必须为已激活的邮箱</string>
+    <string name="CONTACT_CODE_41001">您不能够添加自己为联系人!</string>
+    <string name="CONTACT_CODE_41002">联系人已添加,请重新添加</string>
+    <string name="CONTACT_CODE_41100">联系人不存在</string>
+    <string name="CONTACT_CODE_41101">要代为删除的他人 ID 不存在或无权限</string>
+    <string name="CONTACT_CODE_41003">您的联系人数量已达上限，不能再添加了</string>
+    <string name="CONTACT_CODE_41004">要代为添加联系人的他人 ID 不存在或无权限</string>
+    <string name="CONTACT_CODE_41005">内部错误，通常是数据库出错</string>
+    <string name="CONTACT_CODE_41200">联系人主键不存在或不属于当前账号</string>
+    <string name="CONTACT_CODE_41201">联系人资料填写不正确，在 errors 字段中附带出错字段的具体原因</string>
+    <string name="CONTACT_CODE_42901">群主不可以被踢或退群。</string>
+    <string name="CONTACT_CODE_42902">用户不在群中。</string>
+    <string name="CONTACT_CODE_43800">无效的群 ID，不存在或者您不在该群中</string>
+    <string name="CONTACT_CODE_43801">无效的对话用户 ID，不存在或者不是您的联系人</string>
+    <string name="CONTACT_CODE_43802">您不是群主，无权直接和用户对话</string>
+    <string name="CONTACT_CODE_43803">不能自己发消息给自己</string>
+    <string name="CONTACT_CODE_43804">消息数据不可为空，对于非普通消息必须是合法的 JSON 数据</string>
+    <string name="CONTACT_CODE_43805">无权向对方或群发送聊天信息</string>
+    <string name="CONTACT_CODE_44600">输入的分组名称无效，可能是过长</string>
+    <string name="CONTACT_CODE_44601">该分组名已存在</string>
+    <string name="CONTACT_CODE_44700">联系人不存在</string>
+    <string name="CONTACT_CODE_44701">无效的授权类型</string>
+
+</resources>

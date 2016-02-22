@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TagView">
+        <attr name="lineMargin" format="dimension" />
+        <attr name="tagMargin" format="dimension" />
+        <attr name="textPaddingLeft" format="dimension" />
+        <attr name="textPaddingRight" format="dimension" />
+        <attr name="textPaddingTop" format="dimension" />
+        <attr name="textPaddingBottom" format="dimension" />
+        <attr name="showSingleLine" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="JsonPanel">
+        <attr name="jsonData" format="string" />
+    </declare-styleable>
+    <declare-styleable name="ImageGallery">
+        <attr name="imageUrl" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="CollapsingTextView">
+        <attr name="foldLines" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="DynamicListView">
+        <attr name="content" format="string" />
+        <attr name="dLayout" format="reference" />
+    </declare-styleable>
+</resources>

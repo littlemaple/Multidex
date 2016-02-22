@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="STATUS_CODE_UNDEFINED">error category：%1$s，error code：%2$s，undefined</string>
+    <string name="STATUS_CODE_REQUEST_FAILED">The wrong results returned empty </string>
+    <string name="STATUS_CODE_10000">No </string>
+    <string name="STATUS_CODE_10001">The current network is not available, please check your network settings.</string>
+    <string name="STATUS_CODE_10002">Network  anomaly, please try again later.</string>
+    <string name="STATUS_CODE_10003">The word limit exceeded. </string>
+    <string name="STATUS_CODE_10004">Storage card  not found, unable to store photos! </string>
+    <string name="STATUS_CODE_10005">Sever  anomaly , please try again later.</string>
+
+</resources>

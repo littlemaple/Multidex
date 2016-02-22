@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="MEASURE_CODE_41300">Measurement type provided is incorrect</string>
+    <string name="MEASURE_CODE_41301">Server exception, please try again later</string>
+    <string name="MEASURE_CODE_41302">User ID that measured is invalid </string>
+    <string name="MEASURE_CODE_41400">Measurement type provided is incorrect</string>
+    <string name="MEASURE_CODE_41401">User ID that download data is invalid (not exist or no permission)</string>
+    <string name="MEASURE_CODE_41500">Measurement type provided is incorrect</string>
+    <string name="MEASURE_CODE_41501">The primary key of the data does not exist or  not belong to the current account</string>
+    <string name="MEASURE_CODE_41502">Measurement data was filled incorrectly</string>
+    <string name="MEASURE_CODE_41600">Measurement type provided is incorrect</string>
+    <string name="MEASURE_CODE_41700">Server exception, please try again later</string>
+    <string name="MEASURE_CODE_41800">The target account you quried does not exist</string>
+    <string name="MEASURE_CODE_45102">Invalid measurement type</string>
+    <string name="MEASURE_CODE_11401">Previously no data</string>
+    <string name="MEASURE_CODE_11403">Deleted successfully </string>
+    <string name="MEASURE_CODE_11404">Delete failed</string>
+    <string name="MEASURE_CODE_11405">No data for the month</string>
+    <string name="MEASURE_CODE_DATA_UPLOAD_FAILURE">Data upload failed, please try again later</string>
+    <string name="MEASURE_CODE_CANNOT_DISPLAY_SUGGEST">Currently no network available, you cannot view the analysis and recommendations</string>
+    <string name="MEASURE_CODE_HEART_RATE_EMPTY">Heart rate can not be empty</string>
+    <string name="MEASURE_CODE_SYSTOLIC_PRESSURE_EMPTY">Systolic blood pressure can not be empty </string>
+    <string name="MEASURE_CODE_DIASTOLIC_PRESSURE_EMPTY">Diastolic blood pressure can not be empty</string>
+    <string name="MEASURE_CODE_BLOOD_OXYGEN_EMPTY">Blood oxygen can not be empty</string>
+    <string name="MEASURE_CODE_TEMPERATURE_EMPTY">Ear thermometer can not be empty</string>
+    <string name="MEASURE_CODE_SYSTOLIC_LESS_THAN_DIASTOLIC">Wrong input, systolic blood pressure must be greater than diastolic blood pressure</string>
+    <string name="MEASURE_CODE_18100">Current network is unavailable, unable to use share function of mcloud</string>
+    <string name="MEASURE_CODE_SOMEONT_ELSE_IS_FINISED">Complete measurement for others</string>
+    <string name="MEASURE_CODE_MEASUREMENT_FOR_OTHERS">Current network is unavailable, cannot do measurement for others </string>
+    <string name="MEASURE_CODE_18101">Data is being uploaded. Please try again later</string>
+    <string name="MEASURE_CODE_UPLOAD_OTHER_SUCCESS">Data uploaded successfully</string>
+    <string name="MEASURE_CODE_UPLOAD_SELF_SUCCESS">Data uploaded successfully</string>
+    <string name="MEASURE_CODE_BLOOD_SUGAR_EMPTY">Glucose can not be empty</string>
+    <string name="MEASURE_CODE_CORRUPT_MEDIA">The audio was accidentally damaged, unable to play</string>
+
+</resources>

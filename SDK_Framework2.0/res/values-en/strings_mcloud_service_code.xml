@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- LocalSERVICE_CODE -->
+    <string name="SERVICE_CODE_14101">Label consists only of Chinese characters, numbers and English letters</string>
+    <string name="SERVICE_CODE_14102">Number of alarm clock have reached the maximum, new alarm cannot be added now</string>
+    <string name="SERVICE_CODE_14103">Please enter label</string>
+    <string name="SERVICE_CODE_42901">Can not unfollow the service group advocate</string>
+
+</resources>

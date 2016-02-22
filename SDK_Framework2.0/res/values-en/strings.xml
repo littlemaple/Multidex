@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="todo"></string>
+    <string name="early_in_the_morning">Before dawn</string>
+    <string name="before_breakfast">Before breakfast</string>
+    <string name="before_lunch">Before lunch</string>
+    <string name="before_dinner">Before dinner</string>
+    <string name="bedtime">Before sleep</string>
+    <string name="after_breakfast">After breakfast</string>
+    <string name="after_lunch">After lunch</string>
+    <string name="after_dinner">After dinner</string>
+    
+    <!-- 联系人 -->
+    <string name="data_permissions">&#160;view data permissions</string>
+    <string name="modify_permissions">&#160;modify the data permissions</string>
+    <string name="test_permissions">&#160;instead test permissions</string>
+    <string name="unknown_error">unknown erro</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <data>
+
+        <variable
+            name="con"
+            type="String" />
+
+    </data>
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <ga.imagination.widget.CollapsingTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_tag" />
+
+            <ga.imagination.widget.DynamicListView
+                android:id="@+id/recycle_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:dLayout="@layout/text_layout_item" />
+        </LinearLayout>
+
+    </ScrollView>
+</layout>

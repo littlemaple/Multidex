@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- NetLOG_CODE -->
+    <string name="LOG_CODE_40100">请输入正确的手机号或邮箱</string>
+    <string name="LOG_CODE_40101">请输入正确的手机号或邮箱</string>
+    <string name="LOG_CODE_40102">该帐号未注册，请重新输入</string>
+    <string name="LOG_CODE_40103">该帐号已经被注册，请重新输入</string>
+    <string name="LOG_CODE_40104">发送过于频繁</string>
+    <string name="LOG_CODE_40105">网络异常，请稍后再试</string>
+    <string name="LOG_CODE_40106">验证码错误</string>
+    <string name="LOG_CODE_40300">注册失败，请重新注册</string>
+    <string name="LOG_CODE_40301">密码需为6–16位英文或数字</string>
+    <string name="LOG_CODE_40302">验证码错误</string>
+    <string name="LOG_CODE_40303">验证码错误</string>
+    <string name="LOG_CODE_40400">请输入正确的手机号或邮箱</string>
+    <string name="CODE_ACCOUNT_ILLAGE_PHONE">请输入正确的手机号</string>
+    <string name="LOG_CODE_40401">密码需为6–16位英文或数字</string>
+    <string name="LOG_CODE_40500">服务器异常，请稍后再试</string>
+    <string name="LOG_CODE_40501">请输入正确的手机号或邮箱</string>
+    <string name="LOG_CODE_40502">帐号或密码错误，请重新输入</string>
+    <string name="LOG_CODE_40503">密码错误次数过多，请 15分钟后重新登陆</string>
+
+    <!-- LocalLOG_CODE -->
+    <string name="LOG_CODE_ACCOUNT_ILLAGE">请输入正确的手机号或邮箱</string>
+    <string name="LOG_CODE_10076">请输入验证码</string>
+    <string name="LOG_CODE_10203">验证码已经发送至\n%1$s</string>
+    <string name="LOG_CODE_NICKNAME_TOO_LONG">姓名字数超过限制，请重新输入</string>
+    <string name="LOG_CODE_NICKNAME_ILLAGE">姓名只能由汉字、数字及英文字母组成</string>
+    <string name="LOG_CODE_10206">验证码错误</string>
+    <string name="LOG_CODE_10304">验证码错误</string>
+    <string name="LOG_CODE_10305">请输入新密码 </string>
+    <string name="LOG_CODE_PASSWORD_ERROR">帐号或密码错误，请重新输入</string>
+    <string name="LOG_CODE_LOGIN_KICKED_ERROR">您的帐号在别处登录</string>
+    <string name="LOG_CODE_PASSWORD_ILLAGE">密码需为6–16位英文或数字</string>
+    <string name="LOG_CODE_10307">新密码设置成功</string>
+    <string name="LOG_CODE_PASSWORD_EMPTY">请输入密码</string>
+    <string name="LOG_CODE_ACCOUNT_EMPTY">请输入帐号 </string>
+    <string name="LOG_CODE_EMAIL_EMPTY">请输入帐号</string>
+    <string name="LOG_CODE_PHONE_EMPTY">请输入帐号</string>
+    <string name="LOG_CODE_10211">注册成功</string>
+    <string name="LOG_CODE_NICKNAME_EMPTY">请输入姓名</string>
+    <string name="LOG_CODE_10212">请选择生日</string>
+    <string name="LOG_CODE_10213">请选择性别 </string>
+    <string name="LOG_CODE_10312">请输入验证码</string>
+    <string name="LOG_CODE_10214">注册异常，请重新注册</string>
+    <string name="LOG_CODE_PHONE_ILLAGE">请输入正确的手机号或邮箱</string>
+    <string name="LOG_CODE_EMAIL_ILLAGE">请输入正确的手机号或邮箱</string>
+    <string name="CODE_PASSWORD_INCONSISTENT">两次密码不一致</string>
+
+</resources>

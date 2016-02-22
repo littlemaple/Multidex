@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="CONTACT_CODE_12304">Messages sent too frequently   </string>
+    <string name="CONTACT_CODE_ACCOUNT_EMPTY">Please enter your cell phone number or email address </string>
+    <string name="CONTACT_CODE_ACCOUNT_ILLAGE">Phone number or email address is illegal  </string>
+    <string name="CONTACT_CODE_NICKNAME_EMPTY">Please enter notes</string>
+    <string name="CONTACT_CODE_NICKNAME_TOO_LONG">Name exceed the word limit, please enter again </string>
+    <string name="CONTACT_CODE_NICKNAME_ILLAGE">Name only consist of Chinese characters, numbers and English letters </string>
+    <string name="CONTACT_CODE_40000">Parameter is not correct, Usually lack the necessary parameters</string>
+    <string name="CONTACT_CODE_40600">Other is information is unavailable, Because you have no permission or his ID does not exist</string>
+    <string name="CONTACT_CODE_40700">Account information is incorrect, specific reasons for the error field be given in the errors field incidentally</string>
+    <string name="CONTACT_CODE_40701">A cell phone number has been bound to the account?</string>
+    <string name="CONTACT_CODE_40702">Verification code is incorrect when binding cell phone</string>
+    <string name="CONTACT_CODE_40703">New password decoding failure</string>
+    <string name="CONTACT_CODE_40704">Avatar data decoding is incorret, need base64 do the correct coding</string>
+    <string name="CONTACT_CODE_40705">Verification code is incorrect when modifying mailbox</string>
+    <string name="CONTACT_CODE_40706">The account has been bound mailbox already</string>
+    <string name="CONTACT_CODE_40707">Cannot modify the information of other people, Because you have no permission or his ID does not exist</string>
+    <string name="CONTACT_CODE_40900">Cannot list contacts of other people, Because you have no permission or his ID does not exist </string>
+    <string name="CONTACT_CODE_41000">The contact information was filled incorrectly,the mailbox must be activated</string>
+    <string name="CONTACT_CODE_41001">You can not add yourself as a contact</string>
+    <string name="CONTACT_CODE_41002">Contacts have been added already, please add others</string>
+    <string name="CONTACT_CODE_41100">Contact does not exist </string>
+    <string name="CONTACT_CODE_41101">Cannot delete other people, Because you have no permission or his ID does not exist </string>
+    <string name="CONTACT_CODE_41003">You have reached the maximum number of contacts, can not added now</string>
+    <string name="CONTACT_CODE_41004">Cannot add a contact to other people, Because you have no permission or his ID does not exist </string>
+    <string name="CONTACT_CODE_41005">Internal error, usually a database error</string>
+    <string name="CONTACT_CODE_41200">The primary key of contacts does not exist or  not belong to the current account</string>
+    <string name="CONTACT_CODE_41201">The contact information was filled incorrect, specific reasons for the error field be given in the errors field incidentally</string>
+    <string name="CONTACT_CODE_42901">Group advocate can not be kicked or retreat from group</string>
+    <string name="CONTACT_CODE_42902">User is not in the group</string>
+    <string name="CONTACT_CODE_43800">Invalid group ID, does not exist or you are not in this group </string>
+    <string name="CONTACT_CODE_43801">Invalid session, user ID does not exist or not your contact</string>
+    <string name="CONTACT_CODE_43802">You are not the group advocate, you have no right make direct dialogue with user</string>
+    <string name="CONTACT_CODE_43803">Can not sent message to yourself</string>
+    <string name="CONTACT_CODE_43804">Message data can not be empty, non ordinary message must be legitimate JSON data </string>
+    <string name="CONTACT_CODE_43805">You have no right to send a chat message to the other party or group</string>
+    <string name="CONTACT_CODE_44600">The group name you entered is invalid, maybe it is too long</string>
+    <string name="CONTACT_CODE_44601">The group name already exists</string>
+    <string name="CONTACT_CODE_44700">Contact does not exist</string>
+    <string name="CONTACT_CODE_44701">Invalid authorization type</string>
+    <string name="CONTACT_CODE_CONTACT_LIMIT">The number has reached the upper limit</string>
+    <string name="CONTACT_CODE_CONTACT_PHONE_IS_TIED">Cell phone number has been bound already</string>
+    <string name="CONTACT_CODE_REMARK_TOO_LONG">Remarks name is illegal,can not exceed 10 characters or 20 letters </string>
+    <string name="CONTACT_CODE_REMARK_ILLEGAL">Remarks name is illegal, allow only letters, numbers or characters</string>
+
+</resources>

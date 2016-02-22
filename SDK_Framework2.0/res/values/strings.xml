@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="todo"></string>
+    <string name="early_in_the_morning">凌晨</string>
+    <string name="before_breakfast">早餐前</string>
+    <string name="before_lunch">午餐前</string>
+    <string name="before_dinner">晚餐前</string>
+    <string name="bedtime">睡前</string>
+    <string name="after_breakfast">早餐后</string>
+    <string name="after_lunch">午餐后</string>
+    <string name="after_dinner">晚餐后</string>
+    <string name="record_form">表格记录</string>
+    
+    <!-- 联系人 -->
+    <string name="data_permissions">查看数据权限</string>
+    <string name="modify_permissions">修改资料权限</string>
+    <string name="test_permissions">代测权限</string>
+    <string name="unknown_error">未知错误</string>
+
+</resources>
